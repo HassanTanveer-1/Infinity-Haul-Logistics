@@ -145,7 +145,6 @@ export const contactContent = {
   contactInfo: [
     { label: "Email", value: "infinityhaullogistics@gmail.com", icon: "Mail" },
     { label: "Phone", value: "+1 774 507 0061", icon: "Phone" },
-    { label: "Phone", value: "+1 307 218 2242", icon: "Phone" },
     { label: "Address", value: "1326 S Miami Ave, Miami, FL 33130, USA", icon: "MapPin" },
   ],
 };
@@ -187,7 +186,6 @@ export const footerContent = {
       links: [
         { label: "infinityhaullogistics@gmail.com", href: "mailto:infinityhaullogistics@gmail.com" },
         { label: "+1 774 507 0061", href: "tel:+17745070061" },
-        { label: "+1 307 218 2242", href: "tel:+13072182242" },
         { label: "1326 S Miami Ave, Miami, FL 33130, USA", href: "#" },
       ],
     },
